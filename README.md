@@ -8,7 +8,6 @@ Being a Quality Assurance Specialist with 2 years of experience at Panasonic Aut
   **Programming Languages & Skills:**
 
   - Data Analysis
-  - Data Science
   - Business Intelligence
   - Continuous Improvement
   - Data Warehousing
