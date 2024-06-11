@@ -1,6 +1,6 @@
 ## **Quality Assurance Specialist** <br />
 
-Being Quality Assurance Specialist with 2 years of experience at Panasonic Automotive Industry, specializing in data analysis within the automotive sector. Committed to continuous learning and skill development in various areas of data science and business intelligence to enhance analytical capabilities. Seeking opportunities to leverage my expertise in quality assurance, data analytics, and business intelligence to advance my career and contribute to the continuous improvement and innovation in the industry.
+Being Quality Assurance Specialist with 2 years of experience at Panasonic Automotive Industry, specializing in data analysis within the automotive sector. Committed to continuous learning and skill development in various areas of data science and business intelligence to enhance analytical capabilities. Seeking opportunities to leverage my expertise to advance my career and contribute to the continuous improvement and innovation in the industry.
 
 <!--
 **Gowtham933/Gowtham933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
