@@ -1,4 +1,4 @@
-## **Quality Assurance Specialist** <br />
+### **Quality Assurance Specialist** <br />
 
 Being a Quality Assurance Specialist with 2 years of experience at Panasonic Automotive Industry, specializing in data analysis within the automotive sector. Committed to continuous learning and skill development in various areas of data science, data engineering, and business intelligence to enhance analytical capabilities. Seeking opportunities to leverage my expertise to advance my career and contribute to the continuous improvement and innovation in the industry.<br />
 
@@ -28,8 +28,4 @@ Being a Quality Assurance Specialist with 2 years of experience at Panasonic Aut
     </a>
   </div>
 </div>
-
-
-
-
 
