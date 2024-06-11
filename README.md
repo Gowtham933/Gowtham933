@@ -4,6 +4,7 @@ Being Quality Assurance Specialist with 2 years of experience at Panasonic Autom
 
 ##**Programing languages & Skills:** 
 <div align="right"> <a href="https://app.daily.dev/gowthamraj933"><img src="https://api.daily.dev/devcards/v2/N73iiYUW8XCTc6d8qt0Q9.png?r=ze1" width="356" alt="Gowtham Raj's Dev Card"/></a>
+</div>
 - Data Analysis
 - Data Science
 - Business Intelligence
