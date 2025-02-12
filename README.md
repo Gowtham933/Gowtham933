@@ -19,6 +19,7 @@ Being a Quality Assurance Specialist with 2 years of experience at Panasonic Aut
   - SQL
   - Data Visualization (Tableau, Power BI)
   - Machine Learning
+  - Docker containerization
   </div>
 
   <div style="flex: 1; text-align: right;">
